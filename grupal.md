@@ -1,4 +1,4 @@
-Nombre del grupo: grupo PDI Studio
+**Nombre del grupo:** grupo PDI Studio
 
 ### Integrantes:
 
