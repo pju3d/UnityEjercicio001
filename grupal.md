@@ -28,12 +28,12 @@ Nombre del grupo: grupo PDI Studio
 
 1.1 - <Juego1 Shooter Zombi>
 
-	1.2 - <Shooter zombi en una isla, primera persona,por oleadas, cada vez que se pasa de oleada vienen más zombis y el nivel aumenta>
-	1.3 - <Sobrevivir el mayor tiempo posible>
-	1.4 - <+18 >
-	1.5 - <Call of duty black ops II, Dying Light, Left 4 Dead 2>
-	1.6 - <Modelos de Asset store, Unity, Reaper, Blender, >
-	1.7 - <4 meses, (~96 horas)>
+1.2 - <Shooter zombi en una isla, primera persona,por oleadas, cada vez que se pasa de oleada vienen más zombis y el nivel aumenta>  
+1.3 - <Sobrevivir el mayor tiempo posible>  
+1.4 - <+18 >  
+1.5 - <Call of duty black ops II, Dying Light, Left 4 Dead 2>  
+1.6 - <Modelos de Asset store, Unity, Reaper, Blender, >  
+1.7 - <4 meses, (~96 horas)>  
 
 2.1 - <Juego2 Carrera>
 	
