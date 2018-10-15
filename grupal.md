@@ -24,7 +24,7 @@ Nombre del grupo: grupo PDI Studio
 	Manejo Unity: 0 
 
 
-#Propuestas:
+Propuestas:  
 
 
 1.1 - <Juego1 Shooter Zombi>  
