@@ -1,6 +1,6 @@
 Nombre del grupo: grupo PDI Studio
 
-# Integrantes:
+### Integrantes:
 
 1 - Pedro:
 
@@ -24,7 +24,7 @@ Nombre del grupo: grupo PDI Studio
 	Manejo Unity: 0 
 
 
-# Propuestas:
+### Propuestas:
   
 1.1 - < Juego1 Shooter Zombi >  
 1.2 - < Shooter zombi en una isla, primera persona,por oleadas, cada vez que se pasa de oleada vienen más zombis y el nivel aumenta >  
@@ -50,6 +50,6 @@ Nombre del grupo: grupo PDI Studio
 3.7 - < 4 meses, (~96 horas) >  
 
 
-# Páginas de Modelos:
+### Páginas de Modelos:
 
-	[assetstore](https://assetstore.unity.com/)
+[assetstore](https://assetstore.unity.com/)
