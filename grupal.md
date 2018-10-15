@@ -50,6 +50,6 @@ Nombre del grupo: grupo PDI Studio
 3.7 - < 4 meses, (~96 horas) >  
 
 
-#Páginas de Modelos:
+# Páginas de Modelos:
 
 	[assetstore](https://assetstore.unity.com/)
